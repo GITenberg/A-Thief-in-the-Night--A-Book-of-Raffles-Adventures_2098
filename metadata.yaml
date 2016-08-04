@@ -1,0 +1,41 @@
+_repo: A-Thief-in-the-Night--A-Book-of-Raffles-Adventures_2098
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: "A Thief in the Night is a 1905 collection of short stories by Ernest\
+  \ William Hornung, featuring his popular character A. J. Raffles. It was the third\
+  \ book in the series, and the final collection of short stories. In it, Raffles,\
+  \ a gentleman thief, commits a number of burglaries in late Victorian England.\n\
+  Chronicler and accomplice Bunny Manders narrates additional adventures which he\
+  \ had previously omitted, from various points in their criminal careers. A full-length\
+  \ Raffles novel, Mr. Justice Raffles, would follow in 1909. It too was set before\
+  \ the Boer War, with Raffles in his heyday as a gentlemen thief.\nStories included\
+  \ in the book are:\nOut of Paradise\nThe Chest of Silver\nThe Rest Cure\nThe Criminologists'\
+  \ Club\nThe Field of Phillipi\nA Bad Night\nA Trap to Catch a Cracksman\nThe Spoils\
+  \ of Sacrilege\nThe Raffles Relics\nThe Last Word\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2000-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2098'
+  wikidata: Q4660060
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Raffles (Fictitious character) -- Fiction'
+- !lcsh 'Criminals -- England -- Fiction'
+- GITenberg
+title: 'A Thief in the Night: A Book of Raffles'' Adventures'
+url: http://www.gutenberg.org/ebooks/2098
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Thief_in_the_Night_(short_story_collection)
