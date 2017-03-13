@@ -1,5 +1,8 @@
 _repo: A-Thief-in-the-Night--A-Book-of-Raffles-Adventures_2098
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hornung, E. W. (Ernest William)
@@ -20,6 +23,8 @@ description: "A Thief in the Night is a 1905 collection of short stories by Erne
   \ in the book are:\nOut of Paradise\nThe Chest of Silver\nThe Rest Cure\nThe Criminologists'\
   \ Club\nThe Field of Phillipi\nA Bad Night\nA Trap to Catch a Cracksman\nThe Spoils\
   \ of Sacrilege\nThe Raffles Relics\nThe Last Word\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2098#A-Thief-in-the-Night--A-Book-of-Raffles-Adventures
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2000-03-01'
 gutenberg_type: Text
